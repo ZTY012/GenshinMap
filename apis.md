@@ -1,0 +1,10 @@
+| url                                                                                                                                             | note             |
+| ----------------------------------------------------------------------------------------------------------------------------------------------- | ---------------- |
+| https://api-takumi.mihoyo.com/common/map_user/ys_obc/v1/map/info?map_id=`{map_id}`&app_sn=ys_obc&lang=zh-cn                                   | 地图图片         |
+| https://waf-api-takumi.mihoyo.com/common/map_user/ys_obc/v1/map/label/tree?map_id=`{map_id}`&app_sn=ys_obc&lang=zh-cn                         | 资源类型         |
+| https://api-takumi.mihoyo.com/common/map_user/ys_obc/v1/map/list?map_id=2&app_sn=ys_obc&lang=zh-cn                                              | map_id列表       |
+| https://waf-api-takumi.mihoyo.com/common/map_user/ys_obc/v1/map/point/info?map_id=`{map_id}`&point_id=`{point_id}`&app_sn=ys_obc&lang=zh-cn | 资源点位信息     |
+| https://waf-api-takumi.mihoyo.com/common/map_user/ys_obc/v1/map/game_item?map_id=2&app_sn=ys_obc&lang=zh-cn                                     | 角色，武器列表   |
+| https://waf-api-takumi.mihoyo.com/common/map_user/ys_obc/v1/map/get_map_pageLabel?map_id=`{map_id}`&app_sn=ys_obc&lang=zh-cn                  | 地区名称         |
+| https://waf-api-takumi.mihoyo.com/common/map_user/ys_obc/v1/map/map_anchor/list?map_id=`{map_id}`&app_sn=ys_obc&lang=zh-cn                    | 地区名称（小     |
+| https://waf-api-takumi.mihoyo.com/common/map_user/ys_obc/v1/map/point/list?map_id=`{map_id}`&app_sn=ys_obc&lang=zh-cn                         | 资源点名称和位置 |
